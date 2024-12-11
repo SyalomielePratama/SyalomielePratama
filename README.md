@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Indonesia 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Indonesia
 
 **About me**
 
