@@ -1,4 +1,4 @@
-<p align="center"><a href="https://syalomielepratama.github.io"><img width="80%" alt="Hello, I'm Syalomiele Pratama I am Frontend Engineer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://syalomielepratama.github.io" "Hello, I'm Syalomiele Pratama I am Frontend Engineer!"></p>
 
 <br />
 
