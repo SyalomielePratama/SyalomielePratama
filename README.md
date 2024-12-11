@@ -1,4 +1,4 @@
-<p align="center"><a href="https://syalomielepratama.github.io" "Hello, I'm Syalomiele Pratama I am Frontend Engineer!"></p>
+<p align="center"><a href="https://syalomielepratama.github.io"> <p> "Hello, I'm Syalomiele Pratama I am Frontend Engineer!" </p> </a></p>
 
 <br />
 
