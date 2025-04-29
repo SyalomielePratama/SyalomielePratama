@@ -2,30 +2,26 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Indonesia
+I'm a self-taught passionate FrontEnd developer from Indonesia<br><br>**💫 About Me: **<br><br>- 💼 Freelance FrontEnd Engineer <br><br>- 📈 Built Simple Project, give me stars on GitHub<br><br>- ❤️ I love writing Javascript and Python, and building fun experiments on type-level<br><br>- 💬 Ask me about anything [here](https://syalomielepratama.github.io)
 
-**About me**
 
-- 💼 Freelance FrontEnd Engineer 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sytama) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sytama_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syalomiele pratama) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/temancurhatmu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@syalomielepratama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratamasyalomiele@gmail.com) 
 
-- 📈 Built Simple Project, give me stars on GitHub
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=syalomielepratama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=syalomielepratama&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syalomielepratama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ❤️ I love writing Javascript and Python, and building fun experiments on type-level
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=syalomielepratama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about anything [here](https://syalomielepratama.github.io)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**Languages and Tools:** 
+---
+[![](https://visitcount.itsvg.in/api?id=syalomielepratama&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="30" alt="express" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-<code><img height="30" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="30" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
-<code><img height="30" alt="sqlite" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></code>
-<code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="30" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=syalomielepratama&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syalomielepratama&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
